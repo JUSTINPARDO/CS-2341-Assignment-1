@@ -1,4 +1,6 @@
+For the Errors, the Lab stated Last 100 Errors but the times are all jumbled up. Therefore, while I could've printed both the first 100 shown or the last 100 shown, I opted for the first 100 shown as the Assignment pdf said "Recent Errors." I spent a lot of time pondering what was meant and I could've easily done both so please do not count it as wrong. If needed write a comment and I can modify the code in a jiffy.
 # This is the Output (Look at in in the code format)
+
 Number of Log Entries: 10000
 ERROR count: 3339
 INFO count: 3347
